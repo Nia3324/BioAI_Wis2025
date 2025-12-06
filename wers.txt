@@ -1,0 +1,25 @@
+zero-shot WER for India and South Asia (India, Pakistan, Sri Lanka) = 0.18404442779442778
+
+Normal self-training
+
+Epoch 1/4, Validation WER: 2.5547
+  -> New best model (WER=2.5547), saving in memory
+Epoch 2/4, Validation WER: 0.2011
+  -> New best model (WER=0.2011), saving in memory
+Epoch 3/4, Validation WER: 0.1814
+  -> New best model (WER=0.1814), saving in memory
+Epoch 4/4, Validation WER: 0.1829
+Training done. Best WER: 0.1814
+Final WER after fine-tuning for India and South Asia (India, Pakistan, Sri Lanka) = 0.18137379287379282
+
+UTT self train
+
+Epoch 1/4, Validation WER: 2.4101
+  -> New best model (WER=2.4101), saving in memory
+Epoch 2/4, Validation WER: 1.1399
+  -> New best model (WER=1.1399), saving in memory
+Epoch 3/4, Validation WER: 0.1663
+  -> New best model (WER=0.1663), saving in memory
+Epoch 4/4, Validation WER: 0.1883
+Training done. Best WER: 0.1663
+Final WER after fine-tuning for India and South Asia (India, Pakistan, Sri Lanka) = 0.16632978132978135
